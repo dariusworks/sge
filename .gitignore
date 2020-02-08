@@ -24,7 +24,9 @@
 
 # Output directories
 Build.vc8
+Build.vc71
 Build.vc10
+
 
 # Third-party library directories
 #3rdparty/tinyxml
