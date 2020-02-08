@@ -24,12 +24,12 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3rdpartyUnitTest++", "3rdpa
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3rdpartyJpeg", "3rdpartyJpeg.vcxproj", "{68D891C5-36B2-4758-AE9C-6552440E1E13}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3rdpartyMiniunz", "3rdpartyMiniunz.vcproj", "{C52F9E7B-498A-42BE-8DB4-85A15694382A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3rdpartyMiniunz", "3rdpartyMiniunz.vcxproj", "{C52F9E7B-498A-42BE-8DB4-85A15694382A}"
 	ProjectSection(ProjectDependencies) = postProject
 		{9F0EFC71-B400-4DCD-9963-B93549DBC70E} = {9F0EFC71-B400-4DCD-9963-B93549DBC70E}
 	EndProjectSection
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3rdpartyMinizip", "3rdpartyMinizip.vcproj", "{48CDD9DC-E09F-4135-9C0C-4FE50C3C654B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3rdpartyMinizip", "3rdpartyMinizip.vcxproj", "{48CDD9DC-E09F-4135-9C0C-4FE50C3C654B}"
 	ProjectSection(ProjectDependencies) = postProject
 		{9F0EFC71-B400-4DCD-9963-B93549DBC70E} = {9F0EFC71-B400-4DCD-9963-B93549DBC70E}
 	EndProjectSection
