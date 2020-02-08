@@ -1,0 +1,15 @@
+#############################################################################
+# $Id: SConscript,v 1.3 2006/01/31 20:35:55 dpalma Exp $
+
+Import('env')
+
+sourceFiles = Split("""
+   tinystr.cpp
+   tinyxml.cpp
+   tinyxmlerror.cpp
+   tinyxmlparser.cpp
+""")
+
+local = env.Copy()
+local.Append(CPPDEFINES = ['TIXML_USE_STL'])
+local.Library(target='tinyxml', source=sourceFiles)
