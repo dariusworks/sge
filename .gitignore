@@ -20,12 +20,12 @@
 *.opensdf
 
 # JPEG library configuration header file
-3rdparty/jpeg/jconfig.h
+#3rdparty/jpeg/jconfig.h
 
 # Output directories
 Build.vc8
 Build.vc10
 
 # Third-party library directories
-3rdparty/tinyxml
-3rdparty/UnitTest++
+#3rdparty/tinyxml
+#3rdparty/UnitTest++
