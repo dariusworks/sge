@@ -1,0 +1,22 @@
+;-------------------------------------------------------------------------------
+; $Id$
+
+EXPORTS
+   ?OnTestFailure@TestResults@UnitTest@@QAEXABVTestDetails@2@PBD@Z
+   ??0Test@UnitTest@@QAE@PBD00H@Z
+   ??1Test@UnitTest@@UAE@XZ
+   ??0ListAdder@UnitTest@@QAE@AAVTestList@1@PAVTest@1@@Z
+   ?GetTestList@Test@UnitTest@@SAAAVTestList@2@XZ
+   ?RunAllTests@UnitTest@@YAHXZ
+   ??1MemoryOutStream@UnitTest@@QAE@XZ
+   ?GetText@MemoryOutStream@UnitTest@@QBEPBDXZ
+   ??6MemoryOutStream@UnitTest@@QAEAAV01@H@Z
+   ??6MemoryOutStream@UnitTest@@QAEAAV01@PBD@Z
+   ??0MemoryOutStream@UnitTest@@QAE@H@Z
+   ??6MemoryOutStream@UnitTest@@QAEAAV01@I@Z
+   ?RunAllTests@UnitTest@@YAHAAVTestReporter@1@ABVTestList@1@PBDH@Z
+   ??1TestReporter@UnitTest@@UAE@XZ
+   ??0TestDetails@UnitTest@@QAE@ABV01@H@Z
+   ??0TestDetails@UnitTest@@QAE@PBD00H@Z
+   ?Filename@AssertException@UnitTest@@QBEPBDXZ
+   ?LineNumber@AssertException@UnitTest@@QBEHXZ
